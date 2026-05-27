@@ -238,9 +238,5 @@ Contains:
 ---
 
 # Author
-
 ## Abhijeet Roy
 ## LinkedIn : https://www.linkedin.com/in/abhijeetroy9
-
-lization
-- Business Analytics
